@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+librosa
+scipy
+tqdm
+imbalanced-learn
+scikit-learn
+tensorflow
+keras
+ipython
+jupyter
